@@ -39,7 +39,6 @@ Check out the live demo of my portfolio [MY PORTFOLIO CLICK HERE]().
 
 ## 📸 Screenshots
 <div style="flex">
-<img src="" alt="Alt text" width="400" height="230">
 <img src="./images/homepage 1.png" alt="Alt text" width="400" height="230">
 <img src="./images/Experience.png" alt="Alt text" width="400" height="230">
 <img src="./images/Screenshot 2024-08-11 3.png" alt="Alt text" width="400" height="230">
